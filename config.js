@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Yay! Now I get a high maintenance gf who expects matcha and chagee everyday! 🎉💝💖💝💓",
         message: "See you on friday hehe!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "💖💝❤️💕🐹🐀🐭"  // These will bounce around
     },
 
     // Color scheme for the website
